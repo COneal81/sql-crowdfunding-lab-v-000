@@ -1,11 +1,5 @@
-projects(
-  id INTEGER PRIMARY KEY,
-  title TEXT,
-  category TEXT,
-  funding_goal INTEGER,
-  start_date TEXT,
-  end_date TEXT
-  
+
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
   
  INSERT INTO users (id, name, age) VALUES
   
