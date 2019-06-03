@@ -15,26 +15,26 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 
 
   
- INSERT INTO users (name, age) VALUES("Julie Smith", 44);
- INSERT INTO users (name, age) VALUES("Sarah Red", 42);
- INSERT INTO users (name, age) VALUES("Jennifer Johnson", 54);
- INSERT INTO users (name, age) VALUES("Amy Green", 63);
- INSERT INTO users (name, age) VALUES("Brittany Blu", 26);
- INSERT INTO users (name, age) VALUES("Megan Maroon", 23);
- INSERT INTO users (name, age) VALUES("Tony Greer", 64);
- INSERT INTO users (name, age) VALUES("Mike Rose", 34);
- INSERT INTO users (name, age) VALUES("Wally World", 42);
- INSERT INTO users (name, age) VALUES("Mike Baxter", 31);
- INSERT INTO users (name, age) VALUES("Mandy Smith", 37);
- INSERT INTO users (name, age) VALUES("", 48);
- INSERT INTO users (name, age) VALUES("", 88);
- INSERT INTO users (name, age) VALUES("", 75);
- INSERT INTO users (name, age) VALUES("", 99);
- INSERT INTO users (name, age) VALUES("", 65);
- INSERT INTO users (name, age) VALUES("", 30);
- INSERT INTO users (name, age) VALUES("", 22);
- INSERT INTO users (name, age) VALUES("", 56);
- INSERT INTO users (name, age) VALUES("", 54);
+ INSERT INTO users (name, age) VALUES("Julie", 44);
+ INSERT INTO users (name, age) VALUES("Sarah", 42);
+ INSERT INTO users (name, age) VALUES("Jennifer", 54);
+ INSERT INTO users (name, age) VALUES("Amy", 63);
+ INSERT INTO users (name, age) VALUES("Brittany", 26);
+ INSERT INTO users (name, age) VALUES("Megan", 23);
+ INSERT INTO users (name, age) VALUES("Tony", 64);
+ INSERT INTO users (name, age) VALUES("Mike", 34);
+ INSERT INTO users (name, age) VALUES("Wally", 42);
+ INSERT INTO users (name, age) VALUES("Mike", 31);
+ INSERT INTO users (name, age) VALUES("Mandy", 37);
+ INSERT INTO users (name, age) VALUES("Lexi", 48);
+ INSERT INTO users (name, age) VALUES("David", 88);
+ INSERT INTO users (name, age) VALUES("Sam", 75);
+ INSERT INTO users (name, age) VALUES("Betsy", 99);
+ INSERT INTO users (name, age) VALUES("Debbie", 65);
+ INSERT INTO users (name, age) VALUES("Walker", 30);
+ INSERT INTO users (name, age) VALUES("Hudson", 22);
+ INSERT INTO users (name, age) VALUES("Griffin", 56);
+ INSERT INTO users (name, age) VALUES("Toby", 54);
  
  
   
