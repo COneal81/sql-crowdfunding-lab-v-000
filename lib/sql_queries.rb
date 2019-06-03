@@ -8,8 +8,7 @@
 
 def selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_name
 "SELECT projects.title, pledge.amounts FROM projects
-INNER JOIN pledge
-ON 
+INNER JOIN pledges ON 
 ORDER BY "
 
 ORDER BY name
