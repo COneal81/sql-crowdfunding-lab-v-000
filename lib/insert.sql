@@ -10,3 +10,4 @@ projects(
  INSERT INTO users (id, name, age) VALUES
   
   
+  INSERT INTO pledges (id, amount, user_id, project_id) VALUES
