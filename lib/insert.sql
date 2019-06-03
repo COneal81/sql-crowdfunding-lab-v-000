@@ -7,5 +7,10 @@ projects(
   end_date TEXT
   
   
+  users(
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  age INTEGER
+  
   
   
