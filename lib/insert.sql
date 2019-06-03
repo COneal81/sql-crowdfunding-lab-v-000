@@ -1,11 +1,3 @@
-CREATE TABLE projects(
-  id INTEGER PRIMARY KEY,
-  title TEXT,
-  category TEXT,
-  funding_goal INTEGER,
-  start_date TEXT,
-  end_date TEXT
-
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
 ('Help me buy a horse', 'fun', 1500.00, '2014-06-30', '2014-07-30'),
